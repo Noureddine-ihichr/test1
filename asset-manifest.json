@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/BookShop/static/css/main.d9df7fad.css",
-    "main.js": "/BookShop/static/js/main.927efde8.js",
-    "static/media/The Four Agreements.jpg": "/BookShop/static/media/The Four Agreements.3d3f67b7887a9325faaf.jpg",
-    "static/media/the 7 habits of highly effective people.jpg": "/BookShop/static/media/the 7 habits of highly effective people.e1b6866e09357881e1b1.jpg",
-    "static/media/rich dad poor dad.jpg": "/BookShop/static/media/rich dad poor dad.668df9f01a945449a2fc.jpg",
-    "static/media/The Millionaire Next Door.jpg": "/BookShop/static/media/The Millionaire Next Door.3d77f195fbb855262838.jpg",
-    "static/media/Make Time How to Focus on What Matters Every Day.jpg": "/BookShop/static/media/Make Time How to Focus on What Matters Every Day.3aab08708e264e8a2ec8.jpg",
-    "static/media/Getting Things Done.jpg": "/BookShop/static/media/Getting Things Done.d621008c3222c5134ce0.jpg",
-    "static/media/Mindset The New Psychology of Success.jpg": "/BookShop/static/media/Mindset The New Psychology of Success.c878947563717fa809d7.jpg",
-    "static/media/Essentialism The Disciplined Pursuit of Less.jpg": "/BookShop/static/media/Essentialism The Disciplined Pursuit of Less.52806ae5a729275e9afd.jpg",
-    "static/media/Deep Work Rules for Focused Success in a Distracted World.jpg": "/BookShop/static/media/Deep Work Rules for Focused Success in a Distracted World.b4bc6ae7c8a0b761d717.jpg",
-    "static/media/Leaders Eat Last.jpg": "/BookShop/static/media/Leaders Eat Last.870099cfa2ae926acc9d.jpg",
-    "static/media/atomic habits.jpeg": "/BookShop/static/media/atomic habits.783c74f2f629256dc286.jpeg",
-    "static/media/The One Thing by Gary Keller and Jay Papasan.jpg": "/BookShop/static/media/The One Thing by Gary Keller and Jay Papasan.3e155d604d593ad0cb90.jpg",
-    "static/media/Daring Greatly.jpg": "/BookShop/static/media/Daring Greatly.4a1323e3e03bd94c23c9.jpg",
-    "static/media/The Miracle Morning.jpeg": "/BookShop/static/media/The Miracle Morning.91ca96ef23db2a3abc9a.jpeg",
-    "static/media/The Power of Now.jpg": "/BookShop/static/media/The Power of Now.646d8cdee575807fa01e.jpg",
-    "index.html": "/BookShop/index.html",
-    "main.d9df7fad.css.map": "/BookShop/static/css/main.d9df7fad.css.map",
-    "main.927efde8.js.map": "/BookShop/static/js/main.927efde8.js.map"
+    "main.css": "/Book-Shop/static/css/main.d9df7fad.css",
+    "main.js": "/Book-Shop/static/js/main.44f9ebc5.js",
+    "static/media/The Four Agreements.jpg": "/Book-Shop/static/media/The Four Agreements.3d3f67b7887a9325faaf.jpg",
+    "static/media/the 7 habits of highly effective people.jpg": "/Book-Shop/static/media/the 7 habits of highly effective people.e1b6866e09357881e1b1.jpg",
+    "static/media/rich dad poor dad.jpg": "/Book-Shop/static/media/rich dad poor dad.668df9f01a945449a2fc.jpg",
+    "static/media/The Millionaire Next Door.jpg": "/Book-Shop/static/media/The Millionaire Next Door.3d77f195fbb855262838.jpg",
+    "static/media/Make Time How to Focus on What Matters Every Day.jpg": "/Book-Shop/static/media/Make Time How to Focus on What Matters Every Day.3aab08708e264e8a2ec8.jpg",
+    "static/media/Getting Things Done.jpg": "/Book-Shop/static/media/Getting Things Done.d621008c3222c5134ce0.jpg",
+    "static/media/Mindset The New Psychology of Success.jpg": "/Book-Shop/static/media/Mindset The New Psychology of Success.c878947563717fa809d7.jpg",
+    "static/media/Essentialism The Disciplined Pursuit of Less.jpg": "/Book-Shop/static/media/Essentialism The Disciplined Pursuit of Less.52806ae5a729275e9afd.jpg",
+    "static/media/Deep Work Rules for Focused Success in a Distracted World.jpg": "/Book-Shop/static/media/Deep Work Rules for Focused Success in a Distracted World.b4bc6ae7c8a0b761d717.jpg",
+    "static/media/Leaders Eat Last.jpg": "/Book-Shop/static/media/Leaders Eat Last.870099cfa2ae926acc9d.jpg",
+    "static/media/atomic habits.jpeg": "/Book-Shop/static/media/atomic habits.783c74f2f629256dc286.jpeg",
+    "static/media/The One Thing by Gary Keller and Jay Papasan.jpg": "/Book-Shop/static/media/The One Thing by Gary Keller and Jay Papasan.3e155d604d593ad0cb90.jpg",
+    "static/media/Daring Greatly.jpg": "/Book-Shop/static/media/Daring Greatly.4a1323e3e03bd94c23c9.jpg",
+    "static/media/The Miracle Morning.jpeg": "/Book-Shop/static/media/The Miracle Morning.91ca96ef23db2a3abc9a.jpeg",
+    "static/media/The Power of Now.jpg": "/Book-Shop/static/media/The Power of Now.646d8cdee575807fa01e.jpg",
+    "index.html": "/Book-Shop/index.html",
+    "main.d9df7fad.css.map": "/Book-Shop/static/css/main.d9df7fad.css.map",
+    "main.44f9ebc5.js.map": "/Book-Shop/static/js/main.44f9ebc5.js.map"
   },
   "entrypoints": [
     "static/css/main.d9df7fad.css",
-    "static/js/main.927efde8.js"
+    "static/js/main.44f9ebc5.js"
   ]
 }
